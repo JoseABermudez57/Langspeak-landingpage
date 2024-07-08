@@ -1,22 +1,18 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Langspeak",
+    "paragraph": "ONE CLICK FOR THE FUTURE"
   },
-  "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+  "AboutCompany": {
+    "paragraph": "We are a company committed to developing high-quality software targeted at major languages for Engineers and students aspiring to learn English as their second language. Our mission is to bridge language barriers within the tech community, facilitating a more inclusive environment where knowledge and opportunities can be accessed by non-native English speakers. We believe in empowering our users with the tools they need to succeed in a global market."
+  },
+  "AboutProduct":{
+    "paragraph": "This project is dedicated to teaching professionals and students in Software Engineering how to construct an effective resume in English. The aim is to provide comprehensive guidance that covers the nuances of crafting a CV that stands out in the competitive tech industry. By focusing on the English language, we cater to those seeking to expand their opportunities in international domains where English is a predominant language of communication."
+  },
+  "Target": {
+    "text": "Students",
+    "text": "Professionals",
+    "text": "Engineers"
   },
   "Gallery": [
     {
@@ -131,24 +127,19 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/AGTC.png",
+      "name": "Alan George Trinidad Cruz",
+      "job": "Backend Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/RMMC.png",
+      "name": "Roque Mauricio Martínez Castillo",
+      "job": "Product Manager"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/JAMB.png",
+      "name": "José Alfredo Martínez Bermúdez",
+      "job": "Frontend Developer"
     }
   ],
   "Contact": {
@@ -161,22 +152,17 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "image": "img/documents.png",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "image": "img/meet.png",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
+      "image": "img/skills.png",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
